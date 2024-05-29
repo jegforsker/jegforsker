@@ -20,7 +20,7 @@
 <img align="left" alt="Excel" width="32px" src="https://www.svgrepo.com/show/373590/excel2.svg" />
 <br />
 
-## Python frameworks and main libraries
+### Python frameworks and main libraries
 
 <img align="left" alt="Pandas" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
