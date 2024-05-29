@@ -25,7 +25,7 @@
 <img align="left" alt="Pandas" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="MPL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Seaborn" width="32px" src="https://logotic.me/76aff9f8-36a7-491b-bb85-a4eb19cf3ecc" />
+<img align="left" alt="Seaborn" width="32px" src="https://raw.githubusercontent.com/mwaskom/seaborn/f0b48e891a1bb573b7a46cfc9936dcd35d7d4f24/doc/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Plotly" width="32px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
 
 <br />  
