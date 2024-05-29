@@ -7,7 +7,7 @@
 Я учился анализировать данные с октября 2023 года, когда начал учёбу в Яндекс.Практикуме на курсе "Аналитик данных". С тех пор я научился добывать данные, осуществлять их предобработку и очистку, исследовать их, искать особенности, закономерности, аномалии и выбросы, проверять статистические гипотезы и проводить A/B-тесты, делать выводы на основе продуктовых метрик, визуализировать добытую информацию. В данный момент я ищу работу в сфере аналитики данных, продуктовой аналитики, BI-аналитики.
 
 * 🖥️  [Учебные кейсы](http://github.com/jegforsker/yandex-practicum-projects)
-* ✉️  Почта[jegforsker@ya.ru](mailto:jegforsker@ya.ru)
+* ✉️  Почта [jegforsker@ya.ru](mailto:jegforsker@ya.ru)
 
 ### Skills
 
@@ -19,7 +19,8 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jegforsker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://t.me/jegforsker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a></p>
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" />][telegram]
+[<img align="left" alt="opa_oz | Email" width="22px" src="https://www.svgrepo.com/show/521736/mail.svg" />][Email]
 
 ### Badges
 
