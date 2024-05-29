@@ -19,8 +19,8 @@
 
 ### Socials
 
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" />][telegram]
-[<img align="left" alt="opa_oz | Email" width="22px" src="https://www.svgrepo.com/show/521736/mail.svg" />][Email]
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" />]
+[<img align="left" alt="opa_oz | Email" width="22px" src="https://www.svgrepo.com/show/452057/mail.svg" />]
 
 ### Badges
 
