@@ -29,6 +29,7 @@
 <img align="left" alt="Plotly" width="32px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
 <br />
 
+
 ### Socials
 
 [<img align="left" alt="jegforsker | Telegram" width="22px" src="https://www.svgrepo.com/show/303292/telegram-logo.svg" />][Telegram]
