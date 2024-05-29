@@ -1,5 +1,6 @@
 ## Hi there 👋  
-I'm Sergey, junior data analyst.
+## I'm Sergey, Junior Data Analyst.
+I'm currently looking for job in data analytics
 
 <!--
 **jegforsker/jegforsker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
