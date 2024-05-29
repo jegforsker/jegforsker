@@ -10,11 +10,11 @@
 
 ### Skills
 
-<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="DBeaver" width="28px" src="https://image.pngaaa.com/94/6692094-middle.png" />
+<img align="left" alt="PostgreSQL" width="28px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+<img align="left" alt="DBeaver" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" />
 <img align="left" alt="Python" width="28px" src="https://www.svgrepo.com/show/374016/python.svg" />
 <img align="left" alt="Tableau" width="28px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="28px" src="https://www.svgrepo.com/show/452210/git.svg" />
 <img align="left" alt="Excel" width="28px" src="https://www.svgrepo.com/show/373590/excel2.svg" />
 <br />
 
