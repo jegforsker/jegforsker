@@ -27,7 +27,8 @@
 <img align="left" alt="MPL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Seaborn" width="32px" src="https://logotic.me/76aff9f8-36a7-491b-bb85-a4eb19cf3ecc" />
 <img align="left" alt="Plotly" width="32px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
-<br />
+
+<br />  
 
 
 ### Socials
