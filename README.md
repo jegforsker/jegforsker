@@ -12,12 +12,20 @@
 
 ### Skills
 
-<img align="left" alt="PostgreSQL" width="28px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
-<img align="left" alt="DBeaver" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" />
-<img align="left" alt="Python" width="28px" src="https://www.svgrepo.com/show/374016/python.svg" />
-<img align="left" alt="Tableau" width="28px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
-<img align="left" alt="Git" width="28px" src="https://www.svgrepo.com/show/452210/git.svg" />
-<img align="left" alt="Excel" width="28px" src="https://www.svgrepo.com/show/373590/excel2.svg" />
+<img align="left" alt="PostgreSQL" width="32px" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+<img align="left" alt="DBeaver" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" />
+<img align="left" alt="Python" width="32px" src="https://www.svgrepo.com/show/374016/python.svg" />
+<img align="left" alt="Tableau" width="32px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
+<img align="left" alt="Git" width="32px" src="https://www.svgrepo.com/show/452210/git.svg" />
+<img align="left" alt="Excel" width="32px" src="https://www.svgrepo.com/show/373590/excel2.svg" />
+<br />
+
+## Python frameworks and main libraries
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="32" height="32" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="32" height="32" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="32" height="32" />
+<img src="https://logotic.me/76aff9f8-36a7-491b-bb85-a4eb19cf3ecc" title="Seaborn" alt="Seaborn" width="32" height="32" />
 <br />
 
 ### Socials
