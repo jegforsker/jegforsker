@@ -23,9 +23,9 @@
 ### Python frameworks and main libraries
 
 <img align="left" alt="Pandas" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Numpy" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
+<img align="left" alt="Numpy" width="38px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" />
 <img align="left" alt="MPL" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Seaborn" width="32px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+<img align="left" alt="Seaborn" width="36px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 <img align="left" alt="Plotly" width="32px" src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" />
 
 <br />  
