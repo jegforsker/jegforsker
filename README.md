@@ -5,6 +5,7 @@
 -----------------------------------------
 
 🖥️  [Учебные кейсы](http://github.com/jegforsker/yandex-practicum-projects)
+🆎  [PET-проекты](https://github.com/jegforsker/DA-PET-PROJECTS)
 
 ### Skills
 
